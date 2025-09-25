@@ -1,2 +1,2 @@
-# Python_Docker
+# Python_Jupyter_Notebook
 Repositório com algumas aplicações 
